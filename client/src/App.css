@@ -1,0 +1,99 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Ubuntu&family=Work+Sans&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Poppins:wght@500&family=Ubuntu&family=Work+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  /* border: 1px black solid; */
+}
+
+.mainForm {
+  text-align: center;
+}
+
+.mainForm h2 {
+  margin: 30px 0;
+}
+
+.formGroup {
+  width: 40%;
+  margin-left: 30%;
+}
+
+.formGroup input {
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.form-group {
+  background-color: rgb(233, 234, 235);
+  padding: 12px 18px 12px 2px;
+  border-radius: 7px;
+  /* margin-bottom: 27px; */
+  /* border: 1px black solid; */
+}
+
+button {
+  margin-left: 15%;
+  margin-top: 10px;
+}
+
+.displayAll {
+  margin: 30px auto;
+  border-top: 2px gray solid;
+  padding-top: 30px;
+  width: 33%;
+  /* display: flex;
+  flex-direction: column;
+  align-content: flex-start; */
+  
+}
+
+
+.productTitle {
+  margin-top: 20px;
+}
+
+.detailView {
+  margin: 100px auto;
+  text-align: center;
+}
+
+.updateHeader {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.update-btn {
+  margin-left: 30%;
+}
+
+.edit_delete {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+  width: 25%;
+}
+
+.edit_delete h5 {
+  margin: 10px 0 0 10px;
+}
+
+.updatePage h5 {
+  margin-left: 47%;
+}
+
+.deleteOnDetail {
+  margin-left: 40%;
+}
+
+.displayAll span {
+  margin-left: 130px;
+  background-color: rgb(228, 224, 224);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 19px;
+}
